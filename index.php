@@ -2,10 +2,10 @@
 <html>
 <body>
 
-<h1>Building first PHP application<h1>
+<h1>Building 2nd PHP application<h1>
 
 <?php
-echo "Version: final";
+echo "Version: 2";
 ?>
 
 </body>
