@@ -2,7 +2,7 @@
 <html>
 <body>
 
-<h1>I'm doing aws devops training<h1>
+<h1>Building first PHP application<h1>
 
 <?php
 echo "Version: final";
